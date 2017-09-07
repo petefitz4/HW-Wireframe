@@ -1,0 +1,119 @@
+* {
+      box-sizing: border-box;
+      text-align: center;
+      }
+body {
+      background-color: #777;
+      font-style: arial;/*'Arial','helvetica neue',helvetica,sans-serif*/
+      padding-left: 70px;
+      padding-right: 70px;
+      
+      }
+.font {color:#777;
+      /* Change the size of your font to 18 pixels high. */
+      font-size: 18px;
+      /* the font family is sans-serif*/
+      font-style: sans-serif;
+      /* This will color the heading font grey. */
+      color: #777;
+      /* Align the text to the center of its enclosing element (e.g. div). */
+      }
+
+header {
+      margin-top: 10px;
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 10px;
+      /* put a 15-pixel padding at bottom of text box*/
+      padding: 25px;
+      /* The background of the heading element will now be light. */
+      background-color: #ebebeb;
+      
+      }
+nav  {
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 15px;
+      /* put a 15-pixel padding at bottom of text box*/
+      padding: 25px;
+      /* The background of the heading element will now be light. */
+      background-color: #ebebeb;
+}
+
+
+section {
+      padding: 20px;
+      margin-bottom:10px;
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 25px;
+      /* put a 15-pixel padding at bottom of text box*/
+      padding: 15px;
+      /* The background of the heading element will now be light. */
+      background-color: #ebebeb;
+      width:49%;
+      float:left;
+      }
+
+
+article {
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 10px;
+      /* put a 15-pixel padding at bottom of text box*/
+      padding: 15px;
+      /* The background of the heading element will now be light. */
+      color:#ebebeb;
+      background-color: #777;
+
+}
+h1 {
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 5px;
+      /* put a 15-pixel padding at bottom of text box*/
+      padding: 15px;
+      /* Change the size of your font to 18 pixels high. */
+      font-size: 18px;
+      /* the font family is sans-serif*/
+      font-style: sans-serif;
+      /* This will color the heading font grey. */
+      color: #777;
+      /* Align the text to the center of its enclosing element (e.g. div). */
+      text-align: center;
+      /* The background of the heading element will now be light. */
+      background-color: #ebebeb;
+    }
+
+p {   /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 5px;
+      /* put a 15-pixel padding at bottom of text box*/
+      padding: 15px;
+      /* Change the size of your font to 18 pixels high. */
+      font-size: 18px;
+      /* the font family is sans-serif*/
+      font-style: sans-serif;
+      /* This will color the heading font grey. */
+      color: #777;
+      /* Align the text to the center of its enclosing element (e.g. div). */
+      text-align: center;
+      /* The background of the heading element will now be light. */
+      background-color: #ebebeb;
+
+      }
+aside {
+
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 15px;
+      /* put a 15-pixel padding at bottom of text box*/
+      padding: 119px;
+      /* The background of the heading element will now be light. */
+      background-color: #ebebeb;
+      width:49%;
+      float:right;
+
+      }
+footer {
+      clear:both;
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 15px;
+      /* put a 15-pixel padding at bottom of text box*/
+      padding: 15px;
+      /* The background of the heading element will now be light. */
+      background-color: #ebebeb;
+      }
